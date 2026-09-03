@@ -111,9 +111,7 @@ I'm a Computer Science & Engineering student who enjoys building software and le
 
 
 
-``
-connect with me section
-``
+
 
 
 ## 🤝 Connect With Me
