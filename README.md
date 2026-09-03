@@ -35,16 +35,16 @@ I'm a Computer Science & Engineering student who enjoys building software and le
 
 ## 🛠️ Tech Stack
 
-### 🌐 Frontend
+### 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,xml" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,php,python,c,cpp" />
 </p>
 
-### ⚙️ Programming Languages
+### 🌐 Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,php,python,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" />
 </p>
 
 ### 🗄️ Database
@@ -52,8 +52,6 @@ I'm a Computer Science & Engineering student who enjoys building software and le
 <p>
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
-
-
 
 ### 🔧 Tools & Technologies
 
