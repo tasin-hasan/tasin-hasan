@@ -22,7 +22,7 @@ I'm a Computer Science & Engineering student who enjoys building software and le
 - 🚀 Always learning, building, and experimenting with new technologies
 
 
-<br>
+<br><br>
 
 
 ## 🌱 Currently Learning
@@ -34,7 +34,8 @@ I'm a Computer Science & Engineering student who enjoys building software and le
 
 
 
-<br>
+<br> <br>
+
 
 
 ## 🛠️ Tech Stack
@@ -42,26 +43,83 @@ I'm a Computer Science & Engineering student who enjoys building software and le
 ### 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,ts,php,python,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=java" width="40"/>
+  <img src="https://skillicons.dev/icons?i=js" width="40"/>
+  <img src="https://skillicons.dev/icons?i=ts" width="40"/>
+  <img src="https://skillicons.dev/icons?i=php" width="40"/>
+  <img src="https://skillicons.dev/icons?i=python" width="40"/>
+  <img src="https://skillicons.dev/icons?i=c" width="40"/>
+  <img src="https://skillicons.dev/icons?i=cpp" width="40"/>
 </p>
+
+<br>
 
 ### 🌐 Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html" width="40"/>
+  <img src="https://skillicons.dev/icons?i=css" width="40"/>
+  <img src="https://skillicons.dev/icons?i=react" width="40"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" width="40"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="40"/>
 </p>
+
+<br>
 
 ### 🗄️ Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=mysql" width="40"/>
 </p>
+
+<br>
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java" width="40"/>
+  <img src="https://skillicons.dev/icons?i=js" width="40"/>
+  <img src="https://skillicons.dev/icons?i=ts" width="40"/>
+  <img src="https://skillicons.dev/icons?i=php" width="40"/>
+  <img src="https://skillicons.dev/icons?i=python" width="40"/>
+  <img src="https://skillicons.dev/icons?i=c" width="40"/>
+  <img src="https://skillicons.dev/icons?i=cpp" width="40"/>
+</p>
+
+<br>
+
+### 🌐 Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html" width="40"/>
+  <img src="https://skillicons.dev/icons?i=css" width="40"/>
+  <img src="https://skillicons.dev/icons?i=react" width="40"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" width="40"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="40"/>
+</p>
+
+<br>
+
+### 🗄️ Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" width="40"/>
+</p>
+
+<br>
 
 ### 🔧 Tools & Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,arduino,xampp" />
+  <img src="https://skillicons.dev/icons?i=git" width="40"/>
+  <img src="https://skillicons.dev/icons?i=github" width="40"/>
+  <img src="https://skillicons.dev/icons?i=vscode" width="40"/>
+  <img src="https://skillicons.dev/icons?i=arduino" width="40"/>
+  <img src="https://skillicons.dev/icons?i=xampp" width="40"/>
 </p>
+
 
 
 
