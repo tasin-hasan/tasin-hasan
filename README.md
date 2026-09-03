@@ -22,6 +22,8 @@ I'm a Computer Science & Engineering student who enjoys building software and le
 - 🚀 Always learning, building, and experimenting with new technologies
 
 
+<br>
+
 
 ## 🌱 Currently Learning
 
@@ -31,6 +33,8 @@ I'm a Computer Science & Engineering student who enjoys building software and le
 - 🚀 Deployment & Cloud Technologies
 
 
+
+<br>
 
 
 ## 🛠️ Tech Stack
