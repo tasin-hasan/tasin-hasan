@@ -21,3 +21,12 @@ I'm a Computer Science & Engineering student who enjoys building software and le
 - 🤖 Aspiring to work in Artificial Intelligence and Robotics
 - 🚀 Always learning, building, and experimenting with new technologies
 
+
+
+## 🌱 Currently Learning
+
+- ⚛️ React
+- ⚙️ Backend Development — Node.js & Express.js
+- 🔐 Authentication & REST APIs
+- 🚀 Deployment & Cloud Technologies
+
