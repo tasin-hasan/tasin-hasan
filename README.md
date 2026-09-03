@@ -23,6 +23,15 @@ I'm a Computer Science & Engineering student who enjoys building software and le
 
 
 
+## 🌱 Currently Learning
+
+- ⚛️ React
+- ⚙️ Backend Development — Node.js & Express.js
+- 🔐 Authentication & REST APIs
+- 🚀 Deployment & Cloud Technologies
+
+
+
 
 
 
@@ -46,19 +55,17 @@ I'm a Computer Science & Engineering student who enjoys building software and le
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
+
+
 ### 🔧 Tools & Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,arduino" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,arduino,xampp" />
 </p>
 
 
 
 
-## 🌱 Currently Learning
 
-- ⚛️ React
-- ⚙️ Backend Development — Node.js & Express.js
-- 🔐 Authentication & REST APIs
-- 🚀 Deployment & Cloud Technologies
+
 
