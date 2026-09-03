@@ -44,13 +44,13 @@ I'm a Computer Science & Engineering student who enjoys building software and le
 ### 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java" width="40" style="margin-right: 30px;"/>
-  <img src="https://skillicons.dev/icons?i=js" width="40" style="margin-right: 8px;"/>
-  <img src="https://skillicons.dev/icons?i=ts" width="40" style="margin-right: 8px;"/>
-  <img src="https://skillicons.dev/icons?i=php" width="40" style="margin-right: 8px;"/>
-  <img src="https://skillicons.dev/icons?i=python" width="40" style="margin-right: 8px;"/>
-  <img src="https://skillicons.dev/icons?i=c" width="40" style="margin-right: 8px;"/>
-  <img src="https://skillicons.dev/icons?i=cpp" width="40" style="margin-right: 8px;"/>
+  <img src="https://skillicons.dev/icons?i=java" width="32" style="margin-right: 8px;"/>
+  <img src="https://skillicons.dev/icons?i=js" width="32" style="margin-right: 8px;"/>
+  <img src="https://skillicons.dev/icons?i=ts" width="32" style="margin-right: 8px;"/>
+  <img src="https://skillicons.dev/icons?i=php" width="32" style="margin-right: 8px;"/>
+  <img src="https://skillicons.dev/icons?i=python" width="32" style="margin-right: 8px;"/>
+  <img src="https://skillicons.dev/icons?i=c" width="32" style="margin-right: 8px;"/>
+  <img src="https://skillicons.dev/icons?i=cpp" width="32" style="margin-right: 8px;"/>
 </p>
 
 <br>
@@ -58,11 +58,11 @@ I'm a Computer Science & Engineering student who enjoys building software and le
 ### 🌐 Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html" width="40" style="margin-right: 8px;"/>
-  <img src="https://skillicons.dev/icons?i=css" width="40" style="margin-right: 8px;"/>
-  <img src="https://skillicons.dev/icons?i=react" width="40" style="margin-right: 8px;"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" width="40" style="margin-right: 8px;"/>
-  <img src="https://skillicons.dev/icons?i=bootstrap" width="40" style="margin-right: 8px;"/>
+  <img src="https://skillicons.dev/icons?i=html" width="32" style="margin-right: 8px;"/>
+  <img src="https://skillicons.dev/icons?i=css" width="32" style="margin-right: 8px;"/>
+  <img src="https://skillicons.dev/icons?i=react" width="32" style="margin-right: 8px;"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" width="32" style="margin-right: 8px;"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="32" style="margin-right: 8px;"/>
 </p>
 
 <br>
@@ -70,7 +70,7 @@ I'm a Computer Science & Engineering student who enjoys building software and le
 ### 🗄️ Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" width="40" style="margin-right: 8px;"/>
+  <img src="https://skillicons.dev/icons?i=mysql" width="32" style="margin-right: 8px;"/>
 </p>
 
 <br>
@@ -78,11 +78,11 @@ I'm a Computer Science & Engineering student who enjoys building software and le
 ### 🔧 Tools & Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git" width="40" style="margin-right: 8px;"/>
-  <img src="https://skillicons.dev/icons?i=github" width="40" style="margin-right: 8px;"/>
-  <img src="https://skillicons.dev/icons?i=vscode" width="40" style="margin-right: 8px;"/>
-  <img src="https://skillicons.dev/icons?i=arduino" width="40" style="margin-right: 8px;"/>
-  <img src="https://skillicons.dev/icons?i=xampp" width="40" style="margin-right: 8px;"/>
+  <img src="https://skillicons.dev/icons?i=git" width="32" style="margin-right: 8px;"/>
+  <img src="https://skillicons.dev/icons?i=github" width="32" style="margin-right: 8px;"/>
+  <img src="https://skillicons.dev/icons?i=vscode" width="32" style="margin-right: 8px;"/>
+  <img src="https://skillicons.dev/icons?i=arduino" width="32" style="margin-right: 8px;"/>
+  <img src="https://skillicons.dev/icons?i=xampp" width="32" style="margin-right: 8px;"/>
 </p>
 
 
