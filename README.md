@@ -44,7 +44,7 @@ I'm a Computer Science & Engineering student who enjoys building software and le
 ### 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java" width="40" style="margin-right: 8px;"/>
+  <img src="https://skillicons.dev/icons?i=java" width="40" style="margin-right: 30px;"/>
   <img src="https://skillicons.dev/icons?i=js" width="40" style="margin-right: 8px;"/>
   <img src="https://skillicons.dev/icons?i=ts" width="40" style="margin-right: 8px;"/>
   <img src="https://skillicons.dev/icons?i=php" width="40" style="margin-right: 8px;"/>
