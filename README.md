@@ -95,7 +95,7 @@ I'm a Computer Science & Engineering student who enjoys building software and le
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/tasin-hasan/tasin-hasan/output/github-contribution-grid-snake-dark.svg">
+      srcset="https://raw.githubusercontent.com/tasin-hasan/tasin-hasan/main/github-contribution-grid-snake-dark.svg">
 
 ```
 <source media="(prefers-color-scheme: light)"
