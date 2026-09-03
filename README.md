@@ -83,6 +83,8 @@ I'm a Computer Science & Engineering student who enjoys building software and le
   <img src="https://skillicons.dev/icons?i=vscode" width="32" style="margin-right: 8px;"/>
   <img src="https://skillicons.dev/icons?i=arduino" width="32" style="margin-right: 8px;"/>
   <img src="https://skillicons.dev/icons?i=xampp" width="32" style="margin-right: 8px;"/>
+  <img src="https://skillicons.dev/icons?i=notion" width="32" style="margin-right: 8px;"/>
+  <img src="https://skillicons.dev/icons?i=figma" width="32" style="margin-right: 8px;"/>
 </p>
 
 
