@@ -92,9 +92,7 @@ I'm a Computer Science & Engineering student who enjoys building software and le
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="YOUR_SNAKE_IMAGE_URL" alt="GitHub Contribution Snake" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tasin-hasan&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
