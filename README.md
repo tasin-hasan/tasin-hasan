@@ -23,6 +23,38 @@ I'm a Computer Science & Engineering student who enjoys building software and le
 
 
 
+
+
+
+## 🛠️ Tech Stack
+
+### 🌐 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,xml" />
+</p>
+
+### ⚙️ Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,php,python,c,cpp" />
+</p>
+
+### 🗄️ Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### 🔧 Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,arduino" />
+</p>
+
+
+
+
 ## 🌱 Currently Learning
 
 - ⚛️ React
