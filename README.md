@@ -92,12 +92,30 @@ I'm a Computer Science & Engineering student who enjoys building software and le
 
 ## 📊 GitHub Stats
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/tasin-hasan/tasin-hasan/output/github-contribution-grid-snake-dark.svg">
 
+```
+<source media="(prefers-color-scheme: light)"
+  srcset="https://raw.githubusercontent.com/tasin-hasan/tasin-hasan/output/github-contribution-grid-snake.svg">
+
+<img alt="GitHub contribution grid snake animation"
+  src="https://raw.githubusercontent.com/tasin-hasan/tasin-hasan/output/github-contribution-grid-snake.svg">
+```
+
+  </picture>
+</p>
+
+<br>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tasin-hasan&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tasin-hasan&layout=compact&hide_border=true" height="170"/>
 </p>
+
+
 
 
 
