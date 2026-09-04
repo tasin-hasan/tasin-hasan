@@ -90,25 +90,17 @@ I'm a Computer Science & Engineering student who enjoys building software and le
 <br> <br>
 
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics and Analysis
 
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/tasin-hasan/tasin-hasan/output/github-contribution-grid-snake.svg)
 
-## 📊 GitHub Stats
-
+### 📊 GitHub Stats and Most Used Languages
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=tasin-hasan&show_icons=true&hide_border=true"
-    height="170"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tasin-hasan&layout=compact&hide_border=true"
-    height="170"
-  />
+  <img src="./profile/stats.svg" height="170" />
+  <img src="./profile/top-langs.svg" height="170" />
 </p>
 
-## 🔥 Contribution Streak
-
+### 🔥 Contribution Streak
 <p align="center">
   <img
     src="https://streak-stats.demolab.com?user=tasin-hasan&hide_border=true"
@@ -119,6 +111,8 @@ I'm a Computer Science & Engineering student who enjoys building software and le
 
 
 
+
+<br>
 
 
 ## 🤝 Connect With Me
